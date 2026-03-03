@@ -1,0 +1,7 @@
+# NSM Glyph Library - Core Dependencies
+# No external dependencies required - uses Python standard library only
+
+# Development dependencies (optional)
+# pytest>=7.0
+# black>=22.0
+# mypy>=0.950
